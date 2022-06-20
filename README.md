@@ -8,3 +8,5 @@ model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 21 % 
 
+<img src="" width="500" height="500" /> 
+
